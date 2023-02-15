@@ -1,5 +1,5 @@
 body{
-    background-color: #2da9d3;
+    background-color: #071036;
     color: #0c0b0b;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
@@ -24,13 +24,13 @@ body{
 }
 
 #form-box{
-    background-color: rgb(0, 255, 170);
+    background-color: rgba(82, 23, 23, 0.822);
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: left;
-    height: 500px;
-    width: 500px;
+    height: 615px;
+    width: 600px;
     box-shadow: rgba(18, 18, 35, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 
@@ -64,7 +64,7 @@ body{
     margin-top: 10px;
     width: 20px;
     height: 20px;
-    border: 1px solid rgb(137, 24, 24);
+    border: 1px solid #380303f6;
     border-radius: 4px;
 }
 
@@ -81,12 +81,12 @@ body{
 
 #table-box{
     margin : 0 20px;
-    background-color: rgb(251, 167, 255);
+    background-color: rgb(54, 121, 245);
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: left;
-    height: 500px;
+    height: 200px;
     width: 800px;
     box-shadow: rgba(62, 172, 78, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
